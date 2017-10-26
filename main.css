@@ -1,0 +1,14 @@
+body { overflow: hidden }
+
+section{
+  width: 50vw;
+  height: 25vw;
+  display: inline-block;
+  vertical-align: top;
+  white-space: nowrap;
+}
+
+.red   { background-color: red }
+.blue  { background-color: blue }
+.green { background-color: green }
+.black { background-color: black }
